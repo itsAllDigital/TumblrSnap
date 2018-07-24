@@ -14,7 +14,7 @@ Since this program is writen in Python you'll need Python to make the file usabl
 
 <strike>**Using the pre-build executable**</strike>
 
-<strike>From [here](https://gitlab.com/itsAllDigital/getmetumblr/tags) you can download the getMeTumblr_v.X.X.exe (The X.X will be the current Version number).</strike>
+<strike>From [here](https://github.com/itsAllDigital/TumblrSnap/releases) you can download the TumblrSnap_v.X.X.exe (The X.X will be the current Version number).</strike>
 
 <strike>After that just double click the executable which in turn will start. On first startup it you will have to click the "Config OAuth" button to enter your OAuth-Credentials to be able to download your liked images.</strike>
 
@@ -26,7 +26,7 @@ Since this program is writen in Python you'll need Python to make the file usabl
 
 **Using the python file directly**
 
-If you want to use the python file to run the program you have to download the packed ZIP file from [here](https://gitlab.com/itsAllDigital/getmetumblr/tags) or download the repository as a ZIP. Then unpack it inside the folder you want to run the program from.
+If you want to use the python file to run the program you have to download the packed ZIP file from [here](https://github.com/itsAllDigital/TumblrSnap/releases) or download the repository as a ZIP. Then unpack it inside the folder you want to run the program from.
 
 Python is a needed program to run .py files so you need to download and install said program from here: [LINK](https://www.python.org/downloads/)
 
@@ -49,7 +49,7 @@ Alternatively you can also use the .bat file to run the program with. All you ne
 The program will load up. If this is your first time loading the program you will have to setup your OAuth-Credentials by clicking "Config OAuth".
 
 
-If you don't have your credentials and are unsure how to get them, follow this link in [how to get your OAuth-Credentials](https://gitlab.com/itsAllDigital/getmetumblr#how-to-get-your-oauth-credentials).
+If you don't have your credentials and are unsure how to get them, follow this link in [how to get your OAuth-Credentials](https://github.com/itsAllDigital/TumblrSnap#how-to-get-your-oauth-credentials).
 
 Otherwhise you can now enter them into the empty fields and after letting the program check if they are valid you can then click the "Start Download" button.
 
