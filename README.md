@@ -1,6 +1,6 @@
 TumblrSnap (getMeTumblr)
 ========================
-This is a small tool, I build mainly for downloading and saving all favs on Tumblr (Currently only scripted for Windows, will add Linux/Mac support later. Read [this](https://gitlab.com/itsAllDigital/getmetumblr#why-only-windows) if you wanna know why).
+This is a small tool, I build mainly for downloading and saving all favs on Tumblr.
 
 Currently it only supports image posts and will ignore any posts containing text.
 
@@ -102,13 +102,6 @@ If so it will automaticaly save them and close the config window. Afterwards it 
  - Pyinstaller makes the program currently unusable. Checking on how to fix that.
 
 **Other than that you'll have to tell me**
-
-## Why only Windows
-Thing is that I have to tell Python its paths (where the config is and where to store the images). Windows uses backslashes for its paths (**example:** C:\\).
-
-Linux based systems and MacOS(Built on Unix) use the forwardslash to identify their directories (**example:** /home/user).
-
-Right now the progam simply doesn't has the knowlage how to handle Linux/MacOS's forwardslash. But as said above I'll add that, after I addressed the one issue bugging me.
 
 ## What was used
 
