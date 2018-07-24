@@ -123,3 +123,4 @@ As well as two modules writen from me for this purpose (the_loader and config_rw
 ## Who made this
 
 © 2018 Lukas W. (itsAllDigital)
+(Ported over from my gitlab repo https://gitlab.com/itsAllDigital/getmetumblr)
