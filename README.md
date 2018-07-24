@@ -97,11 +97,7 @@ If so it will automaticaly save them and close the config window. Afterwards it 
 
 ## Issues
 
- - <strike>Currently something I'm still unsure of will block my script from getting new new images. This is noticable by the filename remaining the same while the counter still is going up. I'm investigating on that one.</strike>
-
- - Pyinstaller makes the program currently unusable. Checking on how to fix that.
-
-**Other than that you'll have to tell me**
+**Please use the function from github to report any issues.**
 
 ## What was used
 
