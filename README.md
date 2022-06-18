@@ -1,4 +1,4 @@
-TumblrSnap (getMeTumblr)
+TumblrSnap (getMeTumblr) - ARCHIVED
 ========================
 This is a small tool, I build mainly for downloading and saving all favs on Tumblr.
 
